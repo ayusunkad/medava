@@ -1,0 +1,9 @@
+Questions about Java\
+
+1. One question I had about java was is it the most powerful language compared to the rest? I know that AI uses a lot of java based coding and that is because it is very open and isn\'92t limited like some of the other languages. The reason I ask this question is because I am curious to know which languages will eventually become obsolete and one day we might have a completely new language or remain with the ones we have now. Does java have the capability to adapt to what we might need from it in the future?\
+
+2. Another question I had was  we used an instance initializer and I was wondering if that was really necessary or were we just using it for this lab particularly. I just felt like I could have a used a constructor which is something we learned a lot more about in C++ and other languages so I was just wondering did we really need an instance initializer or could this project also be done with constructors?\
+
+3. We did all this using all these different files and inheritance but I am wondering would it be possible to do it all in one file? \
+
+4. In this project we were working a lot in the base class and we were using interfaces to help with that. But I was wondering is that the best method to handle them when some of the types aren\'92t in the same base class?}
