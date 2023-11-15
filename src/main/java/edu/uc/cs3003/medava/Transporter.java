@@ -31,7 +31,6 @@ public class Transporter {
 
     // Method representing the shipping process. (Placeholder comment)
     public void ship() {
-        // Do some shipping! (Placeholder comment)
     }
 
     // Method to unload the first item from the goods list.
